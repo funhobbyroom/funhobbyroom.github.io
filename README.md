@@ -1,5 +1,5 @@
 # funhobbyroom.github.io
 Fun hobby room
 
-## [C programs](/prog_c)
+## C Programs
 * [goldbach](prog_c/goldbach.c)
